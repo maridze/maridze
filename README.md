@@ -1,7 +1,7 @@
 ## Marat Ibatullin
 #### Data Scientist
 
-### [CV](https://drive.google.com/drive/u/0/folders/121607wb0twi5gnpUuDmZjfQWvaDGR1r6)
+### [CV](https://docs.google.com/document/d/1QVVwagtGR1T2XOoEkffFMlezH7EZwybXjOvc378i0J0/edit)
 
 ### 📊 ML stack
 <p align="left"> 
