@@ -1,12 +1,9 @@
 ## Marat Ibatullin
 #### Data Scientist
 
-### 🎓 Education
-* [Yandex.Practicum](https://practicum.yandex.ru/) (2022 - 2023)
-* [UUST](https://uust.ru/) (Since 2019)
-
 ### [CV](https://drive.google.com/drive/u/0/folders/121607wb0twi5gnpUuDmZjfQWvaDGR1r6)
 </br>
+
 ### 📊 ML stack
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
@@ -54,6 +51,10 @@
   </a>
   
 </p>
+
+### 🎓 Education
+* [Yandex.Practicum](https://practicum.yandex.ru/) (2022 - 2023)
+* [UUST](https://uust.ru/) (Since 2019)
 
 ### Languages
 🇷🇺 Russian - Native <br>
