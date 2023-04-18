@@ -17,21 +17,9 @@
   <a href="https://pytorch.org" target="_blank"> 
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="45" height="45"/>
   </a>
-  
-   <a href="https://pytorch-geometric.readthedocs.io/en/latest/#" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="pytorch-geometric" width="40" height="40"/>
-  </a>
-  
-  <a href="https://albumentations.ai" target="_blank"> 
-    <img src="https://albumentations.ai/assets/img/custom/albumentations_logo.png" alt="albumentations" width="40" height="40"/>
-  </a>
 
   <a href="https://huggingface.co" target="_blank"> 
     <img src="https://uptime-storage.s3.amazonaws.com/logos/d32f5c39b694f3e64d29fc2c9b988cdd.png" alt="huggingface" width="40" height="40"/>
-  </a>
-  
-  <a href="https://wandb.ai/site" target="_blank"> 
-    <img src="https://wandb.ai/logo.png" alt="wandb" width="40" height="40"/>
   </a>
   
   <a href="https://pandas.pydata.org" target="_blank"> 
