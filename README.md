@@ -2,7 +2,6 @@
 #### Data Scientist
 
 ### [CV](https://drive.google.com/drive/u/0/folders/121607wb0twi5gnpUuDmZjfQWvaDGR1r6)
-</br>
 
 ### 📊 ML stack
 <p align="left"> 
