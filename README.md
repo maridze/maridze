@@ -42,6 +42,7 @@
 ### 🎓 Education
 * [Yandex.Practicum](https://practicum.yandex.ru/) (2022 - 2023)
 * [UUST](https://uust.ru/) (Since 2019)
+* [Deep Learning School]([https://uust.ru/](https://dls.samcs.ru)) (2023)
 
 ### Languages
 🇷🇺 Russian - Native <br>
